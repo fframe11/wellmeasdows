@@ -1,0 +1,3 @@
+﻿Public Class Patient_Waiting_List_Report_for_Treatment
+
+End Class
